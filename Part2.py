@@ -31,4 +31,6 @@ def main():
 
     calculate_points(user_books)
 
+if __name__ == '__main__':main()
+
     
